@@ -1,0 +1,31 @@
+﻿  glad.c
+  Camera.cpp
+  ComputeShader.cpp
+  CubeRobot.cpp
+  Frustum.cpp
+  GameTimer.cpp
+  GrassBush.cpp
+  HeightMap.cpp
+E:\Projects\GameDev\DIssertaion\GrassSubmission - Copy\nclgl\HeightMap.cpp(28,48): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+E:\Projects\GameDev\DIssertaion\GrassSubmission - Copy\nclgl\HeightMap.cpp(28,31): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+E:\Projects\GameDev\DIssertaion\GrassSubmission - Copy\nclgl\HeightMap.cpp(29,39): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+E:\Projects\GameDev\DIssertaion\GrassSubmission - Copy\nclgl\HeightMap.cpp(29,36): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  Keyboard.cpp
+  Light.cpp
+  Matrix2.cpp
+  Matrix3.cpp
+  Matrix4.cpp
+  Mesh.cpp
+  MeshAnimation.cpp
+  MeshMaterial.cpp
+  Mouse.cpp
+  OGLRenderer.cpp
+  Plane.cpp
+  Quaternion.cpp
+  SceneNode.cpp
+  Generating Code...
+  Compiling...
+  Shader.cpp
+  Window.cpp
+  Generating Code...
+  nclgl.vcxproj -> E:\Projects\GameDev\DIssertaion\GrassSubmission - Copy\x64\Debug\nclgl.lib

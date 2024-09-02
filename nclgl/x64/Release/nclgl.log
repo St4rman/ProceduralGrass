@@ -1,0 +1,25 @@
+﻿  Camera.cpp
+  ComputeShader.cpp
+  CubeRobot.cpp
+  Frustum.cpp
+  GrassBush.cpp
+  HeightMap.cpp
+E:\Projects\GameDev\DIssertaion\Proc-Fol-Gfx\nclgl\HeightMap.cpp(28,48): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+E:\Projects\GameDev\DIssertaion\Proc-Fol-Gfx\nclgl\HeightMap.cpp(28,31): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+E:\Projects\GameDev\DIssertaion\Proc-Fol-Gfx\nclgl\HeightMap.cpp(29,39): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+E:\Projects\GameDev\DIssertaion\Proc-Fol-Gfx\nclgl\HeightMap.cpp(29,36): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  Mesh.cpp
+  OGLRenderer.cpp
+  Plane.cpp
+E:\Projects\GameDev\DIssertaion\Proc-Fol-Gfx\nclgl\OGLRenderer.cpp(137,42): error C2039: 'DebugCallback': is not a member of 'OGLRenderer'
+  E:\Projects\GameDev\DIssertaion\Proc-Fol-Gfx\nclgl\OGLRenderer.h(50,7):
+  see declaration of 'OGLRenderer'
+  
+E:\Projects\GameDev\DIssertaion\Proc-Fol-Gfx\nclgl\OGLRenderer.cpp(137,42): error C2065: 'DebugCallback': undeclared identifier
+E:\Projects\GameDev\DIssertaion\Proc-Fol-Gfx\nclgl\OGLRenderer.cpp(267,19): error C2039: 'DebugCallback': is not a member of 'OGLRenderer'
+  E:\Projects\GameDev\DIssertaion\Proc-Fol-Gfx\nclgl\OGLRenderer.h(50,7):
+  see declaration of 'OGLRenderer'
+  
+  SceneNode.cpp
+  Shader.cpp
+  Window.cpp
