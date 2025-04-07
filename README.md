@@ -3,6 +3,7 @@
 
 This project is a Noise Based Foliage Rendering grass system which provides big fields of grass based on compute shaders and GPU instancing. This document provides instructions for setting up and building this application. 
 
+For a visual look, check out: https://www.youtube.com/watch?v=Eufx7EyKU48
 
 
 ## Building this project
