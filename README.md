@@ -1,5 +1,6 @@
 
 # Noise Based Foliage Rendering
+![teaser](https://github.com/user-attachments/assets/64bbcb7c-a9df-4652-8d6c-92ecd28ca542)
 
 This project is a Noise Based Foliage Rendering grass system which provides big fields of grass based on compute shaders and GPU instancing. This document provides instructions for setting up and building this application. 
 
@@ -16,6 +17,15 @@ To build this project should be fairly straight forward if VS has been properly 
 4. Optional: Right click, on grass rendering > properties > C/C++ > Additional Include Directories and go to THIRD PARTY/IMGUI 
 5. Run the project
 
+
+
+## Feature List
+* Customizeable grass amount, Large and small, upto 2 million individual grass blades.
+* Inbuilt weather wind system with smooth blending between animations, controls based on wind speed, direction, and thickness. 
+* Clumping support, and camera distance blending.
+* Height based visual differences, and color correction.
+* In built brightness, saturation, gamma correction, and contrast controls.
+* Compute shader with instance rendering and toolset to evaluate perfromance. 
 
 ## Contact
 
