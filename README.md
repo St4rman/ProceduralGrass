@@ -20,6 +20,7 @@ To build this project should be fairly straight forward if VS has been properly 
 
 
 ## Feature List
+* C++, OpenGL, GLSL, Shader work, and ImGUI.
 * Customizeable grass amount, Large and small, upto 2 million individual grass blades.
 * Inbuilt weather wind system with smooth blending between animations, controls based on wind speed, direction, and thickness. 
 * Clumping support, and camera distance blending.
