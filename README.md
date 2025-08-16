@@ -1,5 +1,6 @@
 
 # Noise Based Foliage Rendering
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl)
 ![teaser](https://github.com/user-attachments/assets/64bbcb7c-a9df-4652-8d6c-92ecd28ca542)
 
 This project is a Noise Based Foliage Rendering grass system which provides big fields of grass based on compute shaders and GPU instancing. This document provides instructions for setting up and building this application. 
